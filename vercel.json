@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "bulids": [
+    "buildCommand": [
         {
            "src" : "movie_booking/wsgi.py",
            "use" : "@vercel/python",
